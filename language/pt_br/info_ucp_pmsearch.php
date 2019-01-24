@@ -2,7 +2,7 @@
 /**
 *
 * PM Search extension for the phpBB Forum Software package.
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.0] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid [2017][ver 1.0.0] (https://github.com/phpBBTraducoes)
 *
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
